@@ -12,7 +12,7 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width = 100px/>
 <div/>
 
-### Rede
+### Contato
 <div>
   <a href="https://www.linkedin.com/in/rafael-dutra-71744a21a/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = 50px /><a/> 
 <div/>
