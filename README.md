@@ -6,6 +6,6 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
 
 ### Atualmente estudando:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width = 100px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"  width = 100px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width = 100px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width = 100px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"  width = 100px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width = 100px>
