@@ -4,7 +4,7 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaDRF&layout=compact&hide=assembly)](https://github.com/anuraghazra/github-readme-stats)
 
-### Atualmente estudando:
+### Atualmente estudando
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width = 100px/>
