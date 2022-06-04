@@ -8,9 +8,9 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
 
 <div>
   <a href="https://www.google.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width = 100px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 100px />
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width = 100px/>
+
 <div/>
 
 ### Contato
