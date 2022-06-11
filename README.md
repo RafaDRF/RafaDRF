@@ -2,7 +2,7 @@
 
 Aprendendo cada dia mais sobre Desenvolvimento de Software
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaDRF&layout=compact&hide=assembly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaDRF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Atualmente estudando
 
