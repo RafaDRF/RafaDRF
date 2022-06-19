@@ -1,4 +1,4 @@
-### Olá 👋 Me chamo Rafael e sou um Desenvolvedor em Desenvolvimento :P
+### Olá 👋 Me chamo Rafael e sou um Desenvolvedor de Software em Desenvolvimento :P
 
 Aprendendo cada dia mais sobre Desenvolvimento de Software
 
