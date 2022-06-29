@@ -7,7 +7,7 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
 ### Atualmente estudando
 
 <div>
-  <a href="https://www.google.com/">
+  <a href="https://github.com/RafaDRF/PythonLearning">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 100px />
   </a>
 
