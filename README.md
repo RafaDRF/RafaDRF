@@ -40,7 +40,7 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <div/> 
   
-### Banco de Dados
+### Banco de Dados SQL
  
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">  
