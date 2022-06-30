@@ -48,5 +48,5 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
   
 ### Contato
 <div>
-  <a href="https://www.linkedin.com/in/rafael-dutra-71744a21a/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = 50px /><a/> 
+  <a href="https://www.linkedin.com/in/rafael-dutra-71744a21a/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/> 
 <div/>
