@@ -4,6 +4,8 @@ Sou um Desenvolvedor de Software em Desenvolvimento e aprendendo cada dia mais s
 
 ### Atualmente estudando
 
+
+
 <div>
   <a href="https://github.com/RafaDRF/PythonLearning">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -56,7 +58,7 @@ Sou um Desenvolvedor de Software em Desenvolvimento e aprendendo cada dia mais s
 <div/> 
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaDRF&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaDRF&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
  
   
 ### Contato
