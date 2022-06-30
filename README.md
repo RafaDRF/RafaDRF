@@ -12,6 +12,23 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
   </a>
 <div/>
 
+### Linguagens que ja tive contato
+
+<div
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src=""/>
+  <img src=""/>
+<div/>
+  
+### Frameworks
+  
+<div> 
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<div/> 
+  
 ### Contato
 <div>
   <a href="https://www.linkedin.com/in/rafael-dutra-71744a21a/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = 50px /><a/> 
