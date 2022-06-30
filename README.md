@@ -15,6 +15,8 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
 ## Tecnologias que ja tive contato:
 
 ### Linguagens
+
+#### Programação
   
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -22,6 +24,14 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <div/>
+ 
+### Marcação e estilo
+
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<div/>   
   
 ### Frameworks
   
