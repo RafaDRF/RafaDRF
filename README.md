@@ -2,7 +2,7 @@
 
 Aprendendo cada dia mais sobre Desenvolvimento de Software
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaDRF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Atualmente estudando
 
@@ -12,8 +12,10 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
   </a>
 <div/>
 
-### Linguagens que ja tive contato
+## Tecnologias que ja tive contato:
 
+### Linguagens
+  
 <div
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -25,8 +27,23 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
   
 <div> 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <div/> 
   
+### Banco de Dados
+ 
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">  
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<div/>
+
+### Outros
+<div>
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+<div/> 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaDRF&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+ 
 ### Contato
 <div>
   <a href="https://www.linkedin.com/in/rafael-dutra-71744a21a/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = 50px /><a/> 
