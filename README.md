@@ -1,8 +1,6 @@
-### Olá 👋 Me chamo Rafael e sou um Desenvolvedor de Software em Desenvolvimento :P
+### Olá 👋 Me chamo Rafael 
 
-Aprendendo cada dia mais sobre Desenvolvimento de Software
-
-
+Sou um Desenvolvedor de Software em Desenvolvimento e aprendendo cada dia mais sobre desenvolvimento Web.
 
 ### Atualmente estudando
 
