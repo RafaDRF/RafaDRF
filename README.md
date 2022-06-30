@@ -8,7 +8,7 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
 
 <div>
   <a href="https://github.com/RafaDRF/PythonLearning">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 100px />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 <div/>
 
