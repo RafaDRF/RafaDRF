@@ -19,9 +19,6 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  
-  [//]: <><img src=""/>
-  //<img src=""/>
 <div/>
   
 ### Frameworks
