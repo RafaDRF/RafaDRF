@@ -42,8 +42,10 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
 <div/> 
   
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaDRF&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
  
+  
 ### Contato
 <div>
   <a href="https://www.linkedin.com/in/rafael-dutra-71744a21a/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = 50px /><a/> 
