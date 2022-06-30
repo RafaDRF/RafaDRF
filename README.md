@@ -19,8 +19,8 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
 <div
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <div/>
   
 ### Frameworks
@@ -48,5 +48,5 @@ Aprendendo cada dia mais sobre Desenvolvimento de Software
   
 ### Contato
 <div>
-  <a href="https://www.linkedin.com/in/rafael-dutra-71744a21a/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = 50px /><a/> 
+  <a href="https://www.linkedin.com/in/rafael-dutra-71744a21a/" ><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" width = 50px /><a/> 
 <div/>
