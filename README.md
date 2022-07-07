@@ -12,7 +12,7 @@ Sou um Desenvolvedor de Software em Desenvolvimento!
 
 ## Explorando também:
 
-- Desenvolvimento Web Back-End
+- Desenvolvimento Web Back-End e API's
 
 <p>&emsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
