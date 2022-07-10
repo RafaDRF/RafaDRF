@@ -1,6 +1,6 @@
 ## Olá 👋 Me chamo Rafael 
 
-Sou um Desenvolvedor de Software em Desenvolvimento! 
+Sou um Desenvolvedor de Software em Desenvolvimento! Minha pricipal Stack é: Google + Leitura + Vontade de Aprender
 
 ## Atualmente aprofundando meus estudos em:
  
