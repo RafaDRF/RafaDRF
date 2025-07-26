@@ -19,3 +19,6 @@
 <div>
   <a href="https://www.linkedin.com/in/rafael-dutra-ribas/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/> 
 <div/>
+
+
+![Rafael GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=RafaDRF&gitlabUsername=rafael259)
